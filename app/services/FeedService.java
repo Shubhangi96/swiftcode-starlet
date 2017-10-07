@@ -12,4 +12,6 @@ import java.util.concurrent.ExecutionException;
 
 public class FeedService {
 
+    public FeedResponse getFeedResponse(String keyword) {return null;
+    }
 }
