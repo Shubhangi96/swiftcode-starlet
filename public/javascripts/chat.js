@@ -17,7 +17,7 @@ var  exampleSocket =  new  WebSocket('ws://localhost:9000/chatSocket');
             exampleSocket.send($scope.userMessage);
             $scope.userMessage = '';
         };
-        $scope.trust=$sce.trustAsHtml;
+          $scope.trust=$sce.trustAsHtml;
 
 
 });
