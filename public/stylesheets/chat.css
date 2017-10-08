@@ -2,5 +2,18 @@
     background: url(https://skinnymom.com/wp-content/uploads/2014/06/red-stilettos.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: right bottom
+    background-position: center center;
+}
+.message-card
+{
+max-width: 75%;
+border-radius: 10px;
+padding: 10px;
+font-size: 14px;
+}
+.message-time
+{
+margin-top: 4px;
+color: #666666;
+font-size: 10px;
 }
