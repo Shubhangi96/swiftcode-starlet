@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Germania+One');
+
 #message-pane {
     background: url(https://skinnymom.com/wp-content/uploads/2014/06/red-stilettos.jpg);
     background-repeat: no-repeat;
@@ -9,11 +11,17 @@
 max-width: 75%;
 border-radius: 10px;
 padding: 10px;
-font-size: 14px;
+font-size: 18px;
+font-family: 'Germania One', cursive;
+box-shadow: 0px 0px 10px 5px rgb(255, 0, 0);
 }
 .message-time
 {
 margin-top: 4px;
 color: #666666;
 font-size: 10px;
+}
+#form-card
+{
+margin: 0px;
 }
